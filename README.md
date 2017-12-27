@@ -2,10 +2,9 @@ bitcoind-java-sample
 ========
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brunocvcunha/bitcoind-java-sample/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/brunocvcunha/bitcoind-java-sample.svg)](https://travis-ci.org/brunocvcunha/bitcoind-java-sample)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-:box: bitcoind-java-sample - Sample Project using Bitcoind API
+:package: bitcoind-java-sample - Sample Project using Bitcoind API
 
 
 Usage
